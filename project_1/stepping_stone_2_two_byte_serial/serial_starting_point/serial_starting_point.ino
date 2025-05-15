@@ -18,4 +18,5 @@ void loop()                       // run over and over again
     Serial.print(Byte2);
     Serial.print('\n');
     delay(100);
+  }
 }
